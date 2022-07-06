@@ -1,0 +1,5 @@
+emoji==1.7.0
+pyTelegramBotAPI==4.6.0
+requests==2.28.1
+SQLAlchemy==1.4.39
+
